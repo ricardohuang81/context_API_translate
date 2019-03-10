@@ -5,7 +5,7 @@ import ColorContext from '../contexts/ColorContext';
 class Button extends React.Component {
     // Has to be called contextType
     renderSubmit (language) {
-        return language === 'english' ? 'Submit' : '輸入'
+        return language === 'english' ? 'Submit' : '輸入';
     }
     renderButton (color) {
         return (
