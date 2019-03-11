@@ -1,7 +1,6 @@
 import React from 'react';
 import LanguageContext from '../contexts/LanguageContext';
 import ColorContext from '../contexts/ColorContext';
-
 class Button extends React.Component {
     // Has to be called contextType
     renderSubmit (language) {
