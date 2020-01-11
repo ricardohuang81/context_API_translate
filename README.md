@@ -1,3 +1,5 @@
+# Simple Locale functionality that translates to Mandarin and English with React Context
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
